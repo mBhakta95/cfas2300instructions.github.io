@@ -3,7 +3,7 @@
 }
 
 .bg {
-    background: url('/teacher.jpg');
+    background: url('./teacher.png');
     position: fixed;
     width: 100%;
     height: 100vh; /*same height as jumbotron */
